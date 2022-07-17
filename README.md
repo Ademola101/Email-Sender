@@ -1,6 +1,6 @@
 # Email Sender
 
-Email sender is a simple email sender that can be used to send emails.
+Email sender is a simple NodeJs application can be used to send emails.
 ### Prerequisite
 
 The setups steps expect following tools installed on the system.
